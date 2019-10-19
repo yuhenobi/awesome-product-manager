@@ -1,5 +1,6 @@
 # Awesome Product Manager [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 Список полезных ресурсов для классных менеджеров продукта.
+Хотите внести свой вклад? Ознакомитесь с содержимым файла [CONTRIBUTING.md](CONTRIBUTING.md) в данном проекте.
 
 ## Оглавление
 - [Курсы](#курсы)
