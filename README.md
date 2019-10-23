@@ -87,7 +87,7 @@
 - [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp‌.
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp‌.
 - [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - Harvard‌ ‌University‌.
-- [Основы‌ ‌DevOps‌](https://cleverics.ru/education/courses/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
+- [Основы‌ ‌DevOps‌](https://cleverics.ru/education/agile-devops-kanban/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
 
 ### Методологии
 - [Professional‌ ‌Scrum‌ ‌Product‌ ‌Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Scrum.org‌.
