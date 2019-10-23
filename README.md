@@ -13,6 +13,7 @@
   - [Маркетинг](#маркетинг)
 - [Книги](#книги)
 - [Подкасты](#подкасты)
+- [Видео](#видео)
 - [Telegram каналы](#telegram-каналы)
 - [Сайты и блоги](#сайты-и-блоги)
 - [Конференции](#конференции)
@@ -102,7 +103,7 @@
 - [Introduction‌ ‌to‌ ‌UI‌ ‌Design‌](https://ru.coursera.org/learn/ui-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
 - [Дизайн-мышление. Базовый курс](https://dtcenter.ru/education/design_thinking_basic/?from=awesome-product-manager&utm_source=awesome-product-manager) - Центр Дизайн Мышление.
 - [Типографика‌ ‌и‌ ‌верстка](https://igorshtang.ru/course/?from=awesome-product-manager&utm_source=awesome-product-manager) - Игорь‌ ‌Штанг‌.
-- [Design‌ ‌Thinking‌ ‌‌Camp‌](https://lab-w.com/dtcamp2019/?from=awesome-product-manager&utm_source=awesome-product-manager) - Лаборатория Wonderfull, Русск.
+- [Design‌ ‌Thinking‌ ‌‌Camp‌](https://lab-w.com/dtcamp2019/?from=awesome-product-manager&utm_source=awesome-product-manager) - Лаборатория Wonderfull.
 - [Веб-дизайнер](https://netology.ru/programs/web-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
 - [Дизайн‌ ‌мобильных‌ ‌приложений](https://netology.ru/programs/mobile-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
 - [Проектирование‌ ‌интерфейсов:‌ ‌дизайн‌ ‌от‌ ‌стратегии‌ ‌до‌ ‌тестирования](https://netology.ru/programs/ui-ux/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
@@ -272,14 +273,65 @@
 - [Неизбежно](https://www.mann-ivanov-ferber.ru/books/neizbezhno/?from=awesome-product-manager&utm_source=awesome-product-manager) - К. Келли.
 - [5 пороков команды](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/?from=awesome-product-manager&utm_source=awesome-product-manager) - П. Ленсиони.
 - [45 татуировок менеджера](https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/?from=awesome-product-manager&utm_source=awesome-product-manager) - М. Батырев.
+- [Измеряйте самое важное. Как Google, Intel и другие компании добиваются роста с помощью OKR](https://www.ozon.ru/context/detail/id/148333934/?from=awesome-product-manager&utm_source=awesome-product-manager) - Д. Дорр.
+- [Impact Mapping. Как повысить эффективность программных продуктов и проектов по их разработке](https://www.ozon.ru/context/detail/id/141368820/?from=awesome-product-manager&utm_source=awesome-product-manager) - Г. Аджич.
+- [The Four Steps to the Epiphany. Successful Strategies for Products that Win](http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) - Steven G. Blank.
 
 ## Подкасты
-- [The Product Podcast](https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2)
 - [Masters of Scale](https://mastersofscale.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [StartUp](https://www.gimletmedia.com/startup/?from=awesome-product-manager&utm_source=awesome-product-manager)
-- [ReWork](https://rework.fm/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [The Pitch](https://www.gimletmedia.com/the-pitch/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [The Product Podcast](https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2)
+- [make sense podcast](https://podcasts.apple.com/ru/podcast/make-sense-podcast/id1417851966)
+- [Нормально делай — нормально будет](https://podcasts.apple.com/ru/podcast/%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9-%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B1%D1%83%D0%B4%D0%B5%D1%82/id1436086904)
+- [ReWork](https://rework.fm/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Intercom](https://www.intercom.com/blog/podcasts/)
+- [Sebrant chatting](https://podcasts.apple.com/ru/podcast/sebrant-chatting/id1320623324)
+- [This Is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
+- [Два по цене одного](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B2%D0%B0-%D0%BF%D0%BE-%D1%86%D0%B5%D0%BD%D0%B5-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE/id1371411915)
+- [Product Hunt Radio](https://podcasts.apple.com/ru/podcast/product-hunt-radio/id862714883)
+- [Про людей](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9/id1442073477)
+- [Y Combinator](https://podcasts.apple.com/us/podcast/y-combinator/id1236907421)
+- [a16z podcast](https://podcasts.apple.com/ru/podcast/a16z/id842818711)
+- [Data Driven Decisions](https://podcasts.apple.com/us/podcast/data-driven-decision-making/id387898426)
+- [Podlodka Podcast](https://podcasts.apple.com/ru/podcast/podlodka-podcast/id1209828744)
+- [Tony Robbins](https://podcasts.apple.com/ru/podcast/the-tony-robbins-podcast/id1098413063)
+- [Это провал](https://podcasts.apple.com/ru/podcast/%D1%8D%D1%82%D0%BE-%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%BB/id1440279665)
+- [Groks](https://podcasts.apple.com/ru/podcast/groks-science-radio-show-and-podcast/id73329471)
+- [Продуктологика](https://podcasts.apple.com/us/podcast/id1346657532)
+- [Радио-Т](https://podcasts.apple.com/ru/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435)
+- [Product Popcorn](https://podcasts.apple.com/us/podcast/product-popcorn-a-product-management-technology-podcast/id1273560195)
+- [99% Invisible](https://podcasts.apple.com/ru/podcast/99-invisible/id394775318)
+- [9pm Consulting](http://ninepm.ru/fm)
+- [Crazy/Genius](https://podcasts.apple.com/ru/podcast/crazy-genius/id1378618386)
+
+## Видео
+- [No Flame No Game](https://www.youtube.com/channel/UC33LkHyKsiqIfvDNS0p5m9w)
+- [Академия Яндекса](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ)
+- [Управление проектами и продуктом](https://www.youtube.com/channel/UCQmAuu6V3kSzdIfrszr5iKg)
+- [Максим Спиридонов](https://www.youtube.com/channel/UCfhY78Qw1PeWLphcaA7PcNQ)
+- [ProductCamp](https://www.youtube.com/channel/UCwdZJnP85Ivmkg_y2QB8pQg)
+- [TED Talks](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
+- [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
+- [Русские норм](https://www.youtube.com/channel/UCo3S9OQDrM79i7yPmixnSsQ)
+- [Dmitry Dumik](https://www.youtube.com/channel/UCejXb1RPv1R9g1J45htUkRw)
+- [Productstar](https://www.youtube.com/channel/UCN97-wQgHScYUhnz31_NdeA)
+- [Product School San Francisco](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA)
+- [Tim Ferriss Show](https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw)
+- [TechSparks](https://m.youtube.com/channel/UCf5owY-LeLsK9Fm1sQDC23g)
+- [Игорь Рыбаков](https://www.youtube.com/channel/UCdOUvNFp8y6KTkswzeu7naQ)
+- [Internet 9000](https://www.youtube.com/channel/UCQ2Mz9-8WTJ--HtR7HhFSNg)
+- [Binary District](https://www.youtube.com/channel/UCpBp7TskqZw1QhRiQME600A)
+- [Badoo Tech](https://www.youtube.com/badoo_tech)
+- [Простые Мысли](https://www.youtube.com/channel/UCZuRMfF5ZUHqYlKkvU12xvg)
+- [Group-IB](https://www.youtube.com/user/GroupIB)
+- [Mind the Product](https://www.youtube.com/channel/UCiT1BmYvOBsEvU9iw0076Sw)
+- [ЛЮДИ ДЕЛА](https://www.youtube.com/channel/UC3D9yB6_j7P-LWLQYyZEhwg)
+- [Interesting Engineering](https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ)
+- [Target Summit](https://www.youtube.com/channel/UCiOTL-sYh74iESETVkV782Q)
+- [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Нормально делай, нормально будет](https://radio.mediametrics.ru/presenter/877/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ## Telegram каналы
 - [No Flame No Game](https://t.me/proproduct)
@@ -370,8 +422,6 @@
 - [TC Disrupt](https://techcrunch.com/events/disrupt-sf-2019/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ## Скоро будет добавлено
-- Видео
-- Подкасты
 - Инструменты
 
 ## License
