@@ -88,6 +88,8 @@
 - [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp‌.
 - [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - Harvard‌ ‌University‌.
 - [Основы‌ ‌DevOps‌](https://cleverics.ru/education/agile-devops-kanban/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
+- [Data Mining in Action](http://dmia.space/?from=awesome-product-manager&utm_source=awesome-product-manager) - DMIA.
+- [Deep Learning School](https://www.dlschool.org/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФПМИ МФТИ.
 
 ### Методологии
 - [Professional‌ ‌Scrum‌ ‌Product‌ ‌Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Scrum.org‌.
@@ -276,6 +278,8 @@
 - [Измеряйте самое важное. Как Google, Intel и другие компании добиваются роста с помощью OKR](https://www.ozon.ru/context/detail/id/148333934/?from=awesome-product-manager&utm_source=awesome-product-manager) - Д. Дорр.
 - [Impact Mapping. Как повысить эффективность программных продуктов и проектов по их разработке](https://www.ozon.ru/context/detail/id/141368820/?from=awesome-product-manager&utm_source=awesome-product-manager) - Г. Аджич.
 - [The Four Steps to the Epiphany. Successful Strategies for Products that Win](http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) - Steven G. Blank.
+- [Сверхдержавы искусственного интеллекта](https://www.mann-ivanov-ferber.ru/books/sverhderzhavy-iskusstvennogo-intellekta/?from=awesome-product-manager&utm_source=awesome-product-manager) - Кай-Фу Ли.
+- [Top 10 Strategic Technology Trends for 2020](https://emtemp.gcom.cloud/ngw/globalassets/en/doc/documents/432920-top-10-strategic-technology-trends-for-2020.pdf) - Gartner.
 
 ## Подкасты
 - [Masters of Scale](https://mastersofscale.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
