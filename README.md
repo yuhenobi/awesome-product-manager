@@ -17,7 +17,23 @@
 - [Telegram каналы](#telegram-каналы)
 - [Сайты и блоги](#сайты-и-блоги)
 - [Конференции](#конференции)
-- [Скоро будет добавлено](#скоро-будет-добавлено)
+- [Инструменты](#инструменты)
+  - [Проектирование и управление продуктом](#проектирование-и-управление-продуктом)
+    - [Customer Journey Map](#customer-journey-map)
+    - [Mindmaps](#mindmaps)
+    - [Wireframes](#wireframes)
+    - [Прототипирование](#прототипирование)
+  - [Веб](#веб)
+    - [Аналитика](#аналитика)
+    - [Чаты и лиды](#чаты-и-лиды)
+    - [Исследование конкурентов](#исследование-конкурентов)
+    - [A/B тестирование](#a/b-тестирование)
+    - [Email рассылки](#email-рассылки)
+  - [Видеозвонки](#видеозвонки)
+  - [Исследования](#исследования)
+  - [Задачи и проекты](#задачи-и-проекты)
+  - [Блокноты](#блокноты)
+  - [Поддержка пользователей](#поддержка-пользователей)
 - [License](#license)
 
 ## Курсы‌
@@ -38,8 +54,8 @@
 - [Профессия‌ ‌Product‌ ‌Manager](https://netology.ru/programs/profession-product/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
 - [Customer‌ ‌Development‌](https://netology.ru/courses/customer-development/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
 - [Профессия‌ ‌продакт‑менеджер‌](https://skills.iidf.ru/product-online/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
-- [Продуктовый лидер](https://skills.iidf.ru/trackers-school/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
-- [Директор‌ ‌по‌ ‌продукту](https://skills.iidf.ru/productpro/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
+- [Школа трекеров](https://skills.iidf.ru/trackers-school/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
+- [Продуктовый лидер](https://skills.iidf.ru/product-pro/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
 - [Product Manager – Управление‌ ‌цифровым‌ ‌продуктом‌](https://busedu.hse.ru/catalog/222396366.html?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌НИУ‌ ‌ВШЭ‌.
 - [Продакт-менеджмент](https://busedu.hse.ru/catalog/182758224.html?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌НИУ‌ ‌ВШЭ‌.
 - [Customer‌ ‌Journey‌ ‌Map‌](https://old.binarydistrict.com/ru/workshop/customer-journey-map/?from=awesome-product-manager&utm_source=awesome-product-manager) - Binary District.
@@ -68,6 +84,7 @@
 - [Курсы Luxoft Training](https://www.luxoft-training.ru/training/katalog_kursov/?from=awesome-product-manager&utm_source=awesome-product-manager) - Luxoft Training.
 - [Подготовительные‌ ‌курсы‌ ‌Бюро‌ ‌Горбунова‌](https://bureau.ru/school/prep/?from=awesome-product-manager&utm_source=awesome-product-manager) - Бюро Горбунова.
 - [Школа‌ ‌менеджеров‌‌ ‌Яндекса‌](https://yandex.ru/school-managers/?from=awesome-product-manager&utm_source=awesome-product-manager) - Яндекс.
+- [‌Яндекс.Практикум](https://praktikum.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - Яндекс.
 
 ### Soft Skills
 - [Джедайские‌ ‌техники‌ ‌пустого‌ ‌инбокса](https://www.udemy.com/jeditech/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Udemy‌.
@@ -425,8 +442,86 @@
 - [OFFF](https://offf.barcelona/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [TC Disrupt](https://techcrunch.com/events/disrupt-sf-2019/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
-## Скоро будет добавлено
-- Инструменты
+## Инструменты
+### Проектирование и управление продуктом
+- [Miro](https://miro.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Notion](https://www.notion.so/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Fibery](https://fibery.io/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Customer Journey Map
+- [UXpressia](https://uxpressia.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Smaply](https://www.smaply.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Milkymap](https://milkymap.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Mindmaps
+- [Mindmeister](https://www.mindmeister.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [XMind](http://www.xmind.net/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [FreeMind](http://freemind.en.softonic.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Wireframes
+- [Moqups](https://moqups.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Balsamiq](http://www.balsamiq.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Прототипирование
+- [Marvel](https://marvelapp.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Flinto](https://www.flinto.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Sketch](https://www.sketch.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Origami](https://origami.design/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [FramerJS](https://www.framer.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+### Веб
+#### Аналитика
+- [Google Analytics](http://www.google.com/analytics/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Яндекс.Аналитика](https://metrika.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Mixpanel](https://mixpanel.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [GoSquared](https://www.gosquared.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Usertesting.com](http://www.usertesting.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Чаты и лиды
+- [Intercom](https://www.intercom.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Яндекс.Диалоги](https://dialogs.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [JivoSite](https://www.jivosite.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [LiveTex](https://livetex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Исследование конкурентов
+- [SimilarWeb](https://www.similarweb.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Alexa](https://www.alexa.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [iSpionage](https://www.ispionage.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Facebook Insights](https://www.facebook.com/ads/audience-insights/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [SEMrush](https://www.semrush.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### A/B тестирование
+- [VWO](https://vwo.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Optimizely](https://www.optimizely.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Google Optimize](https://marketingplatform.google.com/about/optimize/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+#### Email рассылки
+- [MailChimp](http://www.mailchimp.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Campaign Monitor](http://www.campaignmonitor.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+
+### Видеозвонки
+- [Zoom](https://zoom.us/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+### Исследования
+- [SurveyMonkey](https://www.surveymonkey.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [SurveyGizmo](https://www.surveygizmo.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Яндекс.Толока](https://toloka.yandex.ru/for-requesters/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Яндекс.Взгляд](https://surveys.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+### Задачи и проекты
+- [Jira](http://www.atlassian.com/software/jira/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Basecamp](http://basecamphq.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Redmine](http://www.redmine.org/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Asana](https://asana.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Trello](https://trello.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Яндекс.Трекер](https://yandex.ru/tracker/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+### Блокноты
+- [Bear](https://bear.app/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+### Поддержка пользователей
+- [Zendesk](http://www.zendesk.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ## License
 [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
