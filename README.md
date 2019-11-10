@@ -23,6 +23,7 @@
     - [Mindmaps](#mindmaps)
     - [Wireframes](#wireframes)
     - [Прототипирование](#прототипирование)
+  - [Проверка гипотез](#проверка-гипотез)
   - [Веб](#веб)
     - [Аналитика](#аналитика)
     - [Чаты и лиды](#чаты-и-лиды)
@@ -468,6 +469,10 @@
 - [Sketch](https://www.sketch.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Origami](https://origami.design/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [FramerJS](https://www.framer.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+
+### Проверка гипотез
+- [Tilda](https://tilda.cc/)
+- [Webflow](https://webflow.com/)
 
 ### Веб
 #### Аналитика
