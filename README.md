@@ -108,6 +108,7 @@
 - [Основы‌ ‌DevOps‌](https://cleverics.ru/education/agile-devops-kanban/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
 - [Data Mining in Action](http://dmia.space/?from=awesome-product-manager&utm_source=awesome-product-manager) - DMIA.
 - [Deep Learning School](https://www.dlschool.org/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФПМИ МФТИ.
+- [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Conputing Foundation.
 
 ### Методологии
 - [Professional‌ ‌Scrum‌ ‌Product‌ ‌Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Scrum.org‌.
