@@ -108,7 +108,6 @@
 - [Основы‌ ‌DevOps‌](https://cleverics.ru/education/agile-devops-kanban/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
 - [Data Mining in Action](http://dmia.space/?from=awesome-product-manager&utm_source=awesome-product-manager) - DMIA.
 - [Deep Learning School](https://www.dlschool.org/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФПМИ МФТИ.
-- [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Conputing Foundation.
 
 ### Методологии
 - [Professional‌ ‌Scrum‌ ‌Product‌ ‌Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Scrum.org‌.
@@ -299,6 +298,10 @@
 - [The Four Steps to the Epiphany. Successful Strategies for Products that Win](http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) - Steven G. Blank.
 - [Сверхдержавы искусственного интеллекта](https://www.mann-ivanov-ferber.ru/books/sverhderzhavy-iskusstvennogo-intellekta/?from=awesome-product-manager&utm_source=awesome-product-manager) - Кай-Фу Ли.
 - [Top 10 Strategic Technology Trends for 2020](https://emtemp.gcom.cloud/ngw/globalassets/en/doc/documents/432920-top-10-strategic-technology-trends-for-2020.pdf) - Gartner.
+- [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/wp-content/uploads/2019/07/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
+- [Phippy Goes to the Zoo. A Kubernetes Story](https://www.cncf.io/wp-content/uploads/2018/12/Phippy-Goes-To-The-Zoo.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
+- [Phippy and Zee Go To The Mountains. A Prometheus Story](https://phippygoestothemountains.github.io/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation. 
+
 
 ## Подкасты
 - [Masters of Scale](https://mastersofscale.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
