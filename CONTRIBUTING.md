@@ -1,13 +1,22 @@
-# CONTRIBUTING.md
-Спасибо, что решили помочь проекту и внести свой вклад в его развитие.
-Будет здорово, если при создании Pull Request вы будете придерживаться следующих рекомендаций:
+# Contribution guidelines
 
-## Какая информация приветствуется?
-- Отправляйте только что-то уникальное и полезное
-- Перед тем как делать Pull Request убедитесь, что материал отсутствует в списке
-- Одно предложение, один Pull Request
-- Используйте следующий формат: `[Название](ссылка), Автор`
-- Новые пункт добавляются в нижней части соответствующей категории.
-- Начните название с заглавной буквы.
-- Проверьте правильность написания и грамматику.
-- Новые категории или улучшения существующей классификации приветствуются.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
+---
+
+## Ensure your pull request adheres to the following rules
+
+- Send only something unique and useful.
+- Before making a Pull Request, make sure that the material is not listed.
+- One sentence, one Pull Request.
+- Use the following format: `[Title](link) - Author or comment`.
+- New items are added at the bottom of the corresponding category.
+- Start the title with a capital letter.
+- Check your spelling and grammar.
+- New categories or improvements to existing classifications are welcome.
+
+Thank you for your suggestions!
+
+## Updating your pull request
+
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
