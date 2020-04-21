@@ -1,5 +1,8 @@
 # Awesome Product Manager [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Список полезных ресурсов для классных менеджеров продукта.
+> A curated list of awesome resources for product managers to learn and grow.
+
+## Who's a product manager?
+A product manager is a professional role that is responsible for the development of products for an organization, known as the practice of product management. Product managers own the business strategy behind a product (both physical and digital products), specify its functional requirements, and generally manage the launch of features. They coordinate work done by many other functions (like software engineers, data scientists, and product designers) and are ultimately responsible for the business success of the product. [Wikipedia](https://en.wikipedia.org/wiki/Product_manager?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ## Contents
 
@@ -563,6 +566,7 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+This list also available in the [Russian language](readme-ru.md).
 
 ## License
 
