@@ -6,7 +6,7 @@ A product manager is a professional role that is responsible for the development
 
 ## Contents
 
-- [Cources](#cources)
+- [Courses](#courses)
   - [Soft Skills](#soft-skills)
   - [Hard Skills](#hard-skills)
   - [Frameworks](#frameworks)
@@ -41,7 +41,7 @@ A product manager is a professional role that is responsible for the development
 - [Contributing](#contributing)
 - [License](#license)
 
-## Cources
+## Courses
 
 - [Go‌ ‌Practice!‌](https://simulator.gopractice.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Oleg Yakubenkov](https://www.facebook.com/lohmatyi312).
 - [How to be a Product Manager‌,‌‌ ProductStar‌](https://productstar.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Michail Karpov](https://facebook.com/michail.karpov), [Roman Abramov](https://www.facebook.com/throwyourtv).
