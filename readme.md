@@ -548,6 +548,7 @@ A product manager is a professional role that is responsible for the development
 - [SurveyGizmo](https://www.surveygizmo.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Yandex.Toloka](https://toloka.yandex.ru/for-requesters/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Yandex.Surveys](https://surveys.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Ribbon](https://www.ribbonapp.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ### Tasks and projects
 

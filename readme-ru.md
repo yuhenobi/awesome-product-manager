@@ -549,6 +549,7 @@
 - [SurveyGizmo](https://www.surveygizmo.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Яндекс.Толока](https://toloka.yandex.ru/for-requesters/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Яндекс.Взгляд](https://surveys.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Ribbon](https://www.ribbonapp.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ### Задачи и проекты
 
