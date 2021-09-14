@@ -41,125 +41,126 @@
   - [Поддержка пользователей](#поддержка-пользователей)
 - [License](#license)
 
-## Курсы‌
+## Курсы
 
-- [Go‌ ‌Practice!‌](https://simulator.gopractice.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Олег Якубенков](https://www.facebook.com/lohmatyi312).
-- [Как‌ ‌быть‌ ‌продактом‌,‌‌ ProductStar‌](https://productstar.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Михаил Карпов](https://facebook.com/michail.karpov), [Роман Абрамов](https://www.facebook.com/throwyourtv).
-- [Курс по Customer Development](https://custdev.me/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Иван‌ Замесин‌](https://www.facebook.com/zamesin.ivan).
-- [Product‌ ‌Heroes](https://uncrn.me/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Илья‌ ‌Красинский‌](https://www.facebook.com/ikrasinsky).
+- [Go Practice!](https://simulator.gopractice.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Олег Якубенков](https://www.facebook.com/lohmatyi312).
+- [Как быть продактом, ProductStar](https://productstar.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Михаил Карпов](https://facebook.com/michail.karpov), [Роман Абрамов](https://www.facebook.com/throwyourtv).
+- [Курс по Customer Development](https://custdev.me/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Иван Замесин](https://www.facebook.com/zamesin.ivan).
+- [Product Heroes](https://uncrn.me/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Илья Красинский](https://www.facebook.com/ikrasinsky).
 - [Программа акселерации продакт-менеджеров](https://productuniversity.ru/product-manager?from=awesome-product-manager&utm_source=awesome-product-manager) - [Аркадий Морейнис](https://www.facebook.com/amoreynis), [Алексей Черняк](https://www.facebook.com/alexey.chernyak).
-- [Become‌ ‌a‌ ‌Product‌ ‌Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/?from=awesome-product-manager&utm_source=awesome-product-manager) - Udemy‌.
-- [Product‌ ‌Management‌ ‌101](https://www.udemy.com/productmanagement101/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Udemy‌.
-- [Practical‌ ‌Customer‌ ‌Development‌](https://www.udemy.com/practical-customer-development/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Udemy‌.
-- [Product‌ ‌Manager‌ ‌Specialization](https://coursera.org/specializations/product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Digital‌ ‌Product‌ ‌Management](https://ru.coursera.org/learn/uva-darden-digital-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Software‌ ‌Product‌ ‌Management](https://ru.coursera.org/learn/introduction-to-software-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Company‌ ‌Future‌ ‌Management](https://ru.coursera.org/learn/company-future-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Digital‌ ‌Product‌ ‌Management:‌ ‌Modern‌ ‌Fundamentals‌](https://ru.coursera.org/learn/uva-darden-digital-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Руководитель‌ ‌Digital-продукта](https://l.netology.ru/productleadintroduction/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
-- [Профессия‌ ‌Product‌ ‌Manager](https://netology.ru/programs/profession-product/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
-- [Customer‌ ‌Development‌](https://netology.ru/courses/customer-development/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
-- [Профессия‌ ‌продакт‑менеджер‌](https://skills.iidf.ru/product-online/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
+- [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/?from=awesome-product-manager&utm_source=awesome-product-manager) - Udemy.
+- [Product Management 101](https://www.udemy.com/productmanagement101/?from=awesome-product-manager&utm_source=awesome-product-manager) - Udemy.
+- [Practical Customer Development](https://www.udemy.com/practical-customer-development/?from=awesome-product-manager&utm_source=awesome-product-manager) - Udemy.
+- [Product Manager Specialization](https://coursera.org/specializations/product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Digital Product Management](https://ru.coursera.org/learn/uva-darden-digital-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Software Product Management](https://ru.coursera.org/learn/introduction-to-software-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Company Future Management](https://ru.coursera.org/learn/company-future-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Digital Product Management: Modern Fundamentals](https://ru.coursera.org/learn/uva-darden-digital-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Руководитель Digital-продукта](https://l.netology.ru/productleadintroduction/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
+- [Профессия Product Manager](https://netology.ru/programs/profession-product/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
+- [Customer Development](https://netology.ru/courses/customer-development/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
+- [Профессия продакт‑менеджер](https://skills.iidf.ru/product-online/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
 - [Школа трекеров](https://skills.iidf.ru/trackers-school/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
 - [Продуктовый лидер](https://skills.iidf.ru/product-pro/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФРИИ.
-- [Product Manager – Управление‌ ‌цифровым‌ ‌продуктом‌](https://busedu.hse.ru/catalog/222396366.html?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌НИУ‌ ‌ВШЭ‌.
-- [Продакт-менеджмент](https://busedu.hse.ru/catalog/182758224.html?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌НИУ‌ ‌ВШЭ‌.
-- [Customer‌ ‌Journey‌ ‌Map‌](https://old.binarydistrict.com/ru/workshop/customer-journey-map/?from=awesome-product-manager&utm_source=awesome-product-manager) - Binary District.
-- [Project‌ ‌Management‌ ‌in‌ ‌IT‌](https://old.binarydistrict.com/ru/course/project-management-in-it-intensive-04-02-2019/?from=awesome-product-manager&utm_source=awesome-product-manager) - Binary District.
-- [Lean‌ ‌Product‌ ‌Management](https://product.vision/product-discovery/?from=awesome-product-manager&utm_source=awesome-product-manager) - Product.Vision.
+- [Product Manager – Управление цифровым продуктом](https://busedu.hse.ru/catalog/222396366.html?from=awesome-product-manager&utm_source=awesome-product-manager) - НИУ ВШЭ.
+- [Продакт-менеджмент](https://busedu.hse.ru/catalog/182758224.html?from=awesome-product-manager&utm_source=awesome-product-manager) - НИУ ВШЭ.
+- [Customer Journey Map](https://old.binarydistrict.com/ru/workshop/customer-journey-map/?from=awesome-product-manager&utm_source=awesome-product-manager) - Binary District.
+- [Project Management in IT](https://old.binarydistrict.com/ru/course/project-management-in-it-intensive-04-02-2019/?from=awesome-product-manager&utm_source=awesome-product-manager) - Binary District.
+- [Lean Product Management](https://product.vision/product-discovery/?from=awesome-product-manager&utm_source=awesome-product-manager) - Product.Vision.
 - [Customer Development](https://product.vision/custdev-online/?from=awesome-product-manager&utm_source=awesome-product-manager) - Product.Vision.
-- [Владелец‌ ‌продукта.‌ ‌Краткий‌ ‌курс‌ ‌выживания](https://scrumtrek.ru/product/36/vladelec-produkta-kratkiy-kurs-vizhivaniya/?from=awesome-product-manager&utm_source=awesome-product-manager) - ScrumTrek.
-- [Product‌ ‌Mindset](https://space.productsense.io/product-mindset/?from=awesome-product-manager&utm_source=awesome-product-manager) - Product Sense.
-- [Growth](https://www.reforge.com/growth-series/?from=awesome-product-manager&utm_source=awesome-product-manager) - Reforge‌.
-- [Digital‌ ‌Product‌ ‌Management‌](https://www.bu.edu/questrom/executive-education/digital/questrom-digital-topics/digital-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Questrom School of Business.
-- [Lean&MVP в условиях применения гибких методологий разработки продуктов](https://geekbrains.ru/events/395/?from=awesome-product-manager&utm_source=awesome-product-manager) - Geekbrains‌.
+- [Владелец продукта. Краткий курс выживания](https://scrumtrek.ru/product/36/vladelec-produkta-kratkiy-kurs-vizhivaniya/?from=awesome-product-manager&utm_source=awesome-product-manager) - ScrumTrek.
+- [Product Mindset](https://space.productsense.io/product-mindset/?from=awesome-product-manager&utm_source=awesome-product-manager) - Product Sense.
+- [Growth](https://www.reforge.com/growth-series/?from=awesome-product-manager&utm_source=awesome-product-manager) - Reforge.
+- [Digital Product Management](https://www.bu.edu/questrom/executive-education/digital/questrom-digital-topics/digital-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - Questrom School of Business.
+- [Lean&MVP в условиях применения гибких методологий разработки продуктов](https://geekbrains.ru/events/395/?from=awesome-product-manager&utm_source=awesome-product-manager) - Geekbrains.
 - [Управление программным продуктом. Начальный уровень](https://www.mymonday.by/product-management-basic/?from=awesome-product-manager&utm_source=awesome-product-manager) - Мой понедельник.
 - [GDPR Data Privacy Professional](https://data-privacy-office.com/courses/zashhita-personalnyh-dannyh-po-gdpr-gdpr-dpp-moskva-3/?from=awesome-product-manager&utm_source=awesome-product-manager) - Data Privacy Office.
-- [Project‌ ‌Management‌ ‌Professional‌ ‌Certification](https://www.pmi.org/certifications/types/project-management-pmp/?from=awesome-product-manager&utm_source=awesome-product-manager) - Project Management Institute.
-- [Разработка‌ ‌и‌ ‌внедрение‌ ‌систем‌ ‌показателей‌ ‌BSC‌ ‌и‌ ‌KPI‌](https://www.specialist.ru/course/kup/?from=awesome-product-manager&utm_source=awesome-product-manager) - Учебный Центр «Специалист» при МГТУ им. Н. Э. Баумана.
-- [Growth‌ ‌hacking‌](https://www.growthacademy.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Growth‌ ‌academy‌.
-- [Software Product Management Specialization](https://www.ualberta.ca/admissions-programs/online-courses/software-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌The‌ ‌University‌ ‌of‌ ‌Alberta‌ ‌Canada.
-- [Стратегия‌ ‌за‌ ‌24‌ ‌часа](https://ikraikra.ru/city/msk/courses/25675/?from=awesome-product-manager&utm_source=awesome-product-manager) - ИКРА‌.
-- [Марафон‌ ‌креативных‌ ‌методик](https://ikraikra.ru/city/msk/courses/11685/?from=awesome-product-manager&utm_source=awesome-product-manager) - ИКРА‌.
-- [Alchemist‌ ‌Accelerator‌](https://alchemistaccelerator.com/?from=awesome-product-manager&utm_source=awesome-product-manager) - Alchemist‌ ‌Accelerator‌.
-- [AppGrowthLab‌](https://appgrowthlab.com/?from=awesome-product-manager&utm_source=awesome-product-manager) - AppGrowthLab‌.
-- [D-school](https://dschool.stanford.edu/?from=awesome-product-manager&utm_source=awesome-product-manager) - Stanford‌ ‌University‌.
-- [Курс‌ ‌по‌ ‌продакт-менеджменту](https://system-approach.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - System Approach.
-- [Погружение‌ ‌в‌ ‌eCommerce](https://www.iwengo.ru/courses/pogruzhenie-v-e-commerce-1/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌iWengo.
-- [Трекинг‌ ‌для‌ ‌предпринимателей](https://rightrack.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - Right‌ ‌Track‌.
+- [Project Management Professional Certification](https://www.pmi.org/certifications/types/project-management-pmp/?from=awesome-product-manager&utm_source=awesome-product-manager) - Project Management Institute.
+- [Разработка и внедрение систем показателей BSC и KPI](https://www.specialist.ru/course/kup/?from=awesome-product-manager&utm_source=awesome-product-manager) - Учебный Центр «Специалист» при МГТУ им. Н. Э. Баумана.
+- [Growth hacking](https://www.growthacademy.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - Growth academy.
+- [Software Product Management Specialization](https://www.ualberta.ca/admissions-programs/online-courses/software-product-management/?from=awesome-product-manager&utm_source=awesome-product-manager) - The University of Alberta Canada.
+- [Стратегия за 24 часа](https://ikraikra.ru/city/msk/courses/25675/?from=awesome-product-manager&utm_source=awesome-product-manager) - ИКРА.
+- [Марафон креативных методик](https://ikraikra.ru/city/msk/courses/11685/?from=awesome-product-manager&utm_source=awesome-product-manager) - ИКРА.
+- [Alchemist Accelerator](https://alchemistaccelerator.com/?from=awesome-product-manager&utm_source=awesome-product-manager) - Alchemist Accelerator.
+- [AppGrowthLab](https://appgrowthlab.com/?from=awesome-product-manager&utm_source=awesome-product-manager) - AppGrowthLab.
+- [D-school](https://dschool.stanford.edu/?from=awesome-product-manager&utm_source=awesome-product-manager) - Stanford University.
+- [Курс по продакт-менеджменту](https://system-approach.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - System Approach.
+- [Погружение в eCommerce](https://www.iwengo.ru/courses/pogruzhenie-v-e-commerce-1/?from=awesome-product-manager&utm_source=awesome-product-manager) - iWengo.
+- [Трекинг для предпринимателей](https://rightrack.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - Right Track.
 - [Курсы Luxoft Training](https://www.luxoft-training.ru/training/katalog_kursov/?from=awesome-product-manager&utm_source=awesome-product-manager) - Luxoft Training.
-- [Подготовительные‌ ‌курсы‌ ‌Бюро‌ ‌Горбунова‌](https://bureau.ru/school/prep/?from=awesome-product-manager&utm_source=awesome-product-manager) - Бюро Горбунова.
-- [Школа‌ ‌менеджеров‌‌ ‌Яндекса‌](https://yandex.ru/school-managers/?from=awesome-product-manager&utm_source=awesome-product-manager) - Яндекс.
-- [‌Яндекс.Практикум](https://praktikum.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - Яндекс.
+- [Подготовительные курсы Бюро Горбунова](https://bureau.ru/school/prep/?from=awesome-product-manager&utm_source=awesome-product-manager) - Бюро Горбунова.
+- [Школа менеджеров Яндекса](https://yandex.ru/school-managers/?from=awesome-product-manager&utm_source=awesome-product-manager) - Яндекс.
+- [Яндекс.Практикум](https://praktikum.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - Яндекс.
+- [Better Product Manager](https://www.betterproductmanager.com/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Vedant Lohbare](https://twitter.com/vedantlohbare).
 
 ### Soft Skills
 
-- [Джедайские‌ ‌техники‌ ‌пустого‌ ‌инбокса](https://www.udemy.com/jeditech/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Udemy‌.
-- [Learning‌ ‌How‌ ‌To‌ ‌Learn](https://ru.coursera.org/learn/learning-how-to-learn/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Академия убойных презентаций](https://bonnieandslide.com/home/?from=awesome-product-manager&utm_source=awesome-product-manager) - Bonnie&Slide‌.
-- [Управление‌ ‌в‌ ‌сфере‌ ‌инноваций‌](https://www.hse.ru/ma/sti/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌НИУ‌ ‌ВШЭ‌.
-- [Курс‌ ‌по‌ ‌проведению‌ ‌социологических‌ ‌исследований](https://social.hse.ru/soc/online/partners?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌НИУ‌ ‌ВШЭ‌.
+- [Джедайские техники пустого инбокса](https://www.udemy.com/jeditech/?from=awesome-product-manager&utm_source=awesome-product-manager) - Udemy.
+- [Learning How To Learn](https://ru.coursera.org/learn/learning-how-to-learn/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Академия убойных презентаций](https://bonnieandslide.com/home/?from=awesome-product-manager&utm_source=awesome-product-manager) - Bonnie&Slide.
+- [Управление в сфере инноваций](https://www.hse.ru/ma/sti/?from=awesome-product-manager&utm_source=awesome-product-manager) - НИУ ВШЭ.
+- [Курс по проведению социологических исследований](https://social.hse.ru/soc/online/partners?from=awesome-product-manager&utm_source=awesome-product-manager) - НИУ ВШЭ.
 - [Soft Skills в ИТ: переговоры и коммуникации](https://www.mymonday.by/soft-skills/?from=awesome-product-manager&utm_source=awesome-product-manager) - Мой понедельник.
 
 ### Hard Skills
 
-- [Learn SQL](https://www.codecademy.com/learn/learn-sql/?from=awesome-product-manager&utm_source=awesome-product-manager) - Codeacademy‌.
-- [Машинное‌ ‌обучение‌ ‌и‌ ‌анализ‌ ‌данных](https://ru.coursera.org/specializations/machine-learning-data-analysis/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Математика‌ ‌и‌ ‌Python‌ ‌для‌ ‌анализа‌ ‌данных‌](https://www.coursera.org/learn/mathematics-and-python/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Frontend-разработчик](https://ru.coursera.org/learn/front-end-react/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Machine‌ ‌Learning](https://ru.coursera.org/learn/machine-learning/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Системное‌ ‌мышление‌](https://ru.coursera.org/learn/system-thinking/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp‌.
-- [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp‌.
-- [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - Harvard‌ ‌University‌.
-- [Основы‌ ‌DevOps‌](https://cleverics.ru/education/agile-devops-kanban/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
+- [Learn SQL](https://www.codecademy.com/learn/learn-sql/?from=awesome-product-manager&utm_source=awesome-product-manager) - Codeacademy.
+- [Машинное обучение и анализ данных](https://ru.coursera.org/specializations/machine-learning-data-analysis/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Frontend-разработчик](https://ru.coursera.org/learn/front-end-react/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Machine Learning](https://ru.coursera.org/learn/machine-learning/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Системное мышление](https://ru.coursera.org/learn/system-thinking/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp.
+- [Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python?from=awesome-product-manager&utm_source=awesome-product-manager) - DataCamp.
+- [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science/?from=awesome-product-manager&utm_source=awesome-product-manager) - Harvard University.
+- [Основы DevOps](https://cleverics.ru/education/agile-devops-kanban/devops-foundation/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cleverics.
 - [Data Mining in Action](https://dmia.space/?from=awesome-product-manager&utm_source=awesome-product-manager) - DMIA.
 - [Deep Learning School](https://www.dlschool.org/?from=awesome-product-manager&utm_source=awesome-product-manager) - ФПМИ МФТИ.
 
 ### Методологии
 
-- [Professional‌ ‌Scrum‌ ‌Product‌ ‌Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Scrum.org‌.
-- [Professional‌ ‌Scrum‌ ‌with‌ ‌‌Kanban‌](https://www.scrum.org/PSK/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Scrum.org‌.
-- [Scrum‌ ‌Product‌ ‌Owner‌ ‌Training‌](https://www.scrum.org/courses/professional-scrum-product-owner-training/?from=awesome-product-manager&utm_source=awesome-product-manager) - Scrum.org‌.
+- [Professional Scrum Product Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification/?from=awesome-product-manager&utm_source=awesome-product-manager) - Scrum.org.
+- [Professional Scrum with Kanban](https://www.scrum.org/PSK/?from=awesome-product-manager&utm_source=awesome-product-manager) - Scrum.org.
+- [Scrum Product Owner Training](https://www.scrum.org/courses/professional-scrum-product-owner-training/?from=awesome-product-manager&utm_source=awesome-product-manager) - Scrum.org.
 - [Certified Scrum Product Owner](https://scrumtrek.ru/product/137/certified-scrum-product-owner/?from=awesome-product-manager&utm_source=awesome-product-manager) - ScrumTrek.
 - [Курс вебинаров по Канбан-методу](https://scrumtrek.ru/product/160/kurs-vebinarov-po-kanban-metodu/?from=awesome-product-manager&utm_source=awesome-product-manager) - ScrumTrek.
-- [Сертифицированный курс «Professional Scrum Product Owner»](https://www.unusual-concepts.ru/study/detail/pspo/?from=awesome-product-manager&utm_source=awesome-product-manager) - Unusual‌ ‌Concepts‌.
+- [Сертифицированный курс «Professional Scrum Product Owner»](https://www.unusual-concepts.ru/study/detail/pspo/?from=awesome-product-manager&utm_source=awesome-product-manager) - Unusual Concepts.
 - [Agile и комбинированные методологии управления ИТ-проектами](https://mymonday.by/agile/?from=awesome-product-manager&utm_source=awesome-product-manager) - Мой понедельник.
 
 ### UI и UX
 
-- [Курс‌ ‌по‌ ‌дизайну](https://ru.coursera.org/learn/dizayn-metodologiya/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Introduction‌ ‌to‌ ‌UI‌ ‌Design‌](https://ru.coursera.org/learn/ui-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
+- [Курс по дизайну](https://ru.coursera.org/learn/dizayn-metodologiya/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Introduction to UI Design](https://ru.coursera.org/learn/ui-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
 - [Дизайн-мышление. Базовый курс](https://dtcenter.ru/education/design_thinking_basic/?from=awesome-product-manager&utm_source=awesome-product-manager) - Центр Дизайн Мышление.
-- [Типографика‌ ‌и‌ ‌верстка](https://igorshtang.ru/course/?from=awesome-product-manager&utm_source=awesome-product-manager) - Игорь‌ ‌Штанг‌.
-- [Design‌ ‌Thinking‌ ‌‌Camp‌](https://lab-w.com/dtcamp2019/?from=awesome-product-manager&utm_source=awesome-product-manager) - Лаборатория Wonderfull.
-- [Веб-дизайнер](https://netology.ru/programs/web-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
-- [Дизайн‌ ‌мобильных‌ ‌приложений](https://netology.ru/programs/mobile-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
-- [Проектирование‌ ‌интерфейсов:‌ ‌дизайн‌ ‌от‌ ‌стратегии‌ ‌до‌ ‌тестирования](https://netology.ru/programs/ui-ux/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
+- [Типографика и верстка](https://igorshtang.ru/course/?from=awesome-product-manager&utm_source=awesome-product-manager) - Игорь Штанг.
+- [Design Thinking Camp](https://lab-w.com/dtcamp2019/?from=awesome-product-manager&utm_source=awesome-product-manager) - Лаборатория Wonderfull.
+- [Веб-дизайнер](https://netology.ru/programs/web-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
+- [Дизайн мобильных приложений](https://netology.ru/programs/mobile-design/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
+- [Проектирование интерфейсов: дизайн от стратегии до тестирования](https://netology.ru/programs/ui-ux/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
 - [UX-дизайн](https://skillbox.ru/aic/?from=awesome-product-manager&utm_source=awesome-product-manager) - Skillbox, Aic.
 - [UX-аналитика](https://skillbox.ru/aic/analytics/?from=awesome-product-manager&utm_source=awesome-product-manager) - Skillbox, Aic, Tagline.
 - [Подготовительный курс для программ ДПО](https://britishdesign.ru/courses/podgotovitelnyy-kurs-dlya-programm-dopolnitelnogo-professionalnogo-obrazovaniya/?from=awesome-product-manager&utm_source=awesome-product-manager) - Британская высшая школа дизайна.
 
 ### Аналитика и анализ
 
-- [Курс‌ ‌по‌ ‌бизнес-анализу](https://e-5.com.ua/ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - E5.
-- [Основы‌ ‌статистики](https://stepik.org/course/76/promo/?from=awesome-product-manager&utm_source=awesome-product-manager) - ‌Stepik‌.
-- [‌Business‌ ‌Value‌ ‌Analysis‌](https://icagile.com/Learning-Roadmap/Product-Ownership/Business-Value-Analysis/?from=awesome-product-manager&utm_source=awesome-product-manager) - ICAgile‌.
+- [Курс по бизнес-анализу](https://e-5.com.ua/ru/?from=awesome-product-manager&utm_source=awesome-product-manager) - E5.
+- [Основы статистики](https://stepik.org/course/76/promo/?from=awesome-product-manager&utm_source=awesome-product-manager) - Stepik.
+- [Business Value Analysis](https://icagile.com/Learning-Roadmap/Product-Ownership/Business-Value-Analysis/?from=awesome-product-manager&utm_source=awesome-product-manager) - ICAgile.
 - [Данные для бизнеса: добыть, понять и применить](https://smysl.io/courses/data-1/?from=awesome-product-manager&utm_source=awesome-product-manager) - [Алексей Куличевский](https://www.facebook.com/alexey.kulichevskiy).
 - [Продуктовая аналитика](https://www.mymonday.by/product-analytics/?from=awesome-product-manager&utm_source=awesome-product-manager) - Мой понедельник.
 
 ### Экономика и финансы
 
-- [Financial‌ ‌Engineering‌ ‌and‌ ‌Risk‌ ‌Management‌](https://ru.coursera.org/learn/financial-engineering-1/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Основы‌ ‌корпоративных‌ ‌финансов](https://ru.coursera.org/learn/osnovy-korporativnykh-finansov/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
-- [Target‌ ‌Costing‌ ‌and‌ ‌Channel‌ ‌Economics‌](https://ru.coursera.org/lecture/growth-strategy/target-costing-and-channel-economics-GUmBx/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
+- [Financial Engineering and Risk Management](https://ru.coursera.org/learn/financial-engineering-1/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Основы корпоративных финансов](https://ru.coursera.org/learn/osnovy-korporativnykh-finansov/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
+- [Target Costing and Channel Economics](https://ru.coursera.org/lecture/growth-strategy/target-costing-and-channel-economics-GUmBx/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
 
 ### Маркетинг
 
-- [Курс‌ ‌по‌ ‌работе‌ ‌в‌ ‌Google‌ ‌Analytics‌](https://netology.ru/blog/google-analytics-new/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
-- [Маркетинг‌ ‌мобильных‌ ‌приложений‌](https://netology.ru/programs/mobile-marketing/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология‌.
+- [Курс по работе в Google Analytics](https://netology.ru/blog/google-analytics-new/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
+- [Маркетинг мобильных приложений](https://netology.ru/programs/mobile-marketing/?from=awesome-product-manager&utm_source=awesome-product-manager) - Нетология.
 - [Продюсер онлайн-курсов](https://skillbox.ru/producer/?from=awesome-product-manager&utm_source=awesome-product-manager) - Skillbox.
-- [Digital‌ ‌Marketing‌ ‌Strategy](https://ru.coursera.org/learn/digital-marketing-strategy/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera‌.
+- [Digital Marketing Strategy](https://ru.coursera.org/learn/digital-marketing-strategy/?from=awesome-product-manager&utm_source=awesome-product-manager) - Coursera.
 
 ## Книги
 
@@ -493,6 +494,7 @@
 - [Sketch](https://www.sketch.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Origami](https://origami.design/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [FramerJS](https://www.framer.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Figma](https://www.figma.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ### Проверка гипотез
 
@@ -508,6 +510,7 @@
 - [Mixpanel](https://mixpanel.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [GoSquared](https://www.gosquared.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Usertesting.com](https://www.usertesting.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Amplitude](https://amplitude.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 #### Чаты и лиды
 
@@ -563,6 +566,7 @@
 ### Поддержка пользователей
 
 - [Zendesk](https://www.zendesk.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Wannadocs](https://wannadocs.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 ## Contributing
 
