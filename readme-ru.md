@@ -439,6 +439,7 @@
 - [Советы Бюро Горбунова](https://bureau.ru/bb/soviet/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Сергей Король](https://sergeykorol.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Илья Бирман](https://ilyabirman.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [TOOLBOXTOOLBOX](https://www.toolboxtoolbox.com/) - Список лучших инструментов для бизнеса, дизайна и организационных изменений, созданный самыми влиятельными компаниями и мыслителями.
 
 ## Конференции
 
