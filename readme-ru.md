@@ -441,6 +441,7 @@
 - [Сергей Король](https://sergeykorol.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Илья Бирман](https://ilyabirman.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [TOOLBOXTOOLBOX](https://www.toolboxtoolbox.com/) - Список лучших инструментов для бизнеса, дизайна и организационных изменений, созданный самыми влиятельными компаниями и мыслителями.
+- [Product Design Database](https://www.uxdatabase.io/product-database) - Список тщательно отобранных ресурсов про продуктовый дизайн. Откройте для себя лучшие инструменты, методологии, плагины и учебные ресурсы.
 
 ## Конференции
 

@@ -440,6 +440,7 @@ A product manager is a professional role that is responsible for the development
 - [Sergey Korol](https://sergeykorol.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Ilya Birman](https://ilyabirman.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [TOOLBOXTOOLBOX](https://www.toolboxtoolbox.com/) - A curated list of the best business, design, and organisational change toolboxes built by some of the most influential companies, institutions and thinkers.
+- [Product Design Database](https://www.uxdatabase.io/product-database) - Free database of curated products so you can focus on what really matters. Discover the best tools, methodologies, plugins and learning resources.
 
 ## Conferences
 
