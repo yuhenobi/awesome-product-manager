@@ -311,7 +311,8 @@
 - [Top 10 Strategic Technology Trends for 2020](https://emtemp.gcom.cloud/ngw/globalassets/en/doc/documents/432920-top-10-strategic-technology-trends-for-2020.pdf) - Gartner.
 - [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/wp-content/uploads/2019/07/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
 - [Phippy Goes to the Zoo. A Kubernetes Story](https://www.cncf.io/wp-content/uploads/2018/12/Phippy-Goes-To-The-Zoo.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
-- [Phippy and Zee Go To The Mountains. A Prometheus Story](https://phippygoestothemountains.github.io/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation. 
+- [Phippy and Zee Go To The Mountains. A Prometheus Story](https://phippygoestothemountains.github.io/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
+- [Bulletproof Problem Solving: The One Skill That Changes Everything](https://www.amazon.com/Bulletproof-Problem-Solving-Changes-Everything/dp/1119553024) - Charles Conn.
 
 ## Подкасты
 

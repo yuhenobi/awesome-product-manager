@@ -311,6 +311,7 @@ A product manager is a professional role that is responsible for the development
 - [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/wp-content/uploads/2019/07/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
 - [Phippy Goes to the Zoo. A Kubernetes Story](https://www.cncf.io/wp-content/uploads/2018/12/Phippy-Goes-To-The-Zoo.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
 - [Phippy and Zee Go To The Mountains. A Prometheus Story](https://phippygoestothemountains.github.io/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation. 
+- [Bulletproof Problem Solving: The One Skill That Changes Everything](https://www.amazon.com/Bulletproof-Problem-Solving-Changes-Everything/dp/1119553024) - Charles Conn.
 
 ## Podcasts
 
