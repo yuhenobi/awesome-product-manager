@@ -313,6 +313,8 @@
 - [Phippy Goes to the Zoo. A Kubernetes Story](https://www.cncf.io/wp-content/uploads/2018/12/Phippy-Goes-To-The-Zoo.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
 - [Phippy and Zee Go To The Mountains. A Prometheus Story](https://phippygoestothemountains.github.io/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
 - [Bulletproof Problem Solving: The One Skill That Changes Everything](https://www.amazon.com/Bulletproof-Problem-Solving-Changes-Everything/dp/1119553024) - Charles Conn.
+- [Принцип пирамиды Минто. Золотые правила мышления, делового письма и устных выступлений](https://www.ozon.ru/product/printsip-piramidy-minto-zolotye-pravila-myshleniya-delovogo-pisma-i-ustnyh-vystupleniy-tom-54-260600169/?from=awesome-product-manager) - Барбара Минто.
+- [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000) - Atul Gawande.
 
 ## Подкасты
 

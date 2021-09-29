@@ -312,6 +312,8 @@ A product manager is a professional role that is responsible for the development
 - [Phippy Goes to the Zoo. A Kubernetes Story](https://www.cncf.io/wp-content/uploads/2018/12/Phippy-Goes-To-The-Zoo.pdf?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation.
 - [Phippy and Zee Go To The Mountains. A Prometheus Story](https://phippygoestothemountains.github.io/?from=awesome-product-manager&utm_source=awesome-product-manager) - Cloud Native Computing Foundation. 
 - [Bulletproof Problem Solving: The One Skill That Changes Everything](https://www.amazon.com/Bulletproof-Problem-Solving-Changes-Everything/dp/1119553024) - Charles Conn.
+- [The Pyramid Principle: Logic in Writing and Thinking](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516) - Brabara Minto.
+- [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000) - Atul Gawande.
 
 ## Podcasts
 
