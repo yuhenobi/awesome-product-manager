@@ -523,6 +523,10 @@ A product manager is a professional role that is responsible for the development
 - [JivoSite](https://www.jivosite.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [LiveTex](https://livetex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
+### Audience research
+
+- [ ] [Growf AI](https://www.growf.io/)
+
 #### Competitor research
 
 - [SimilarWeb](https://www.similarweb.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
