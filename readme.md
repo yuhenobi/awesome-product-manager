@@ -473,6 +473,7 @@ A product manager is a professional role that is responsible for the development
 - [Miro](https://miro.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Notion](https://www.notion.so/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Fibery](https://fibery.io/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [PM-Skills](https://github.com/product-on-purpose/pm-skills?from=awesome-product-manager&utm_source=awesome-product-manager) - A library of 24 plug-and-play product management agent skills for Claude, following the agentskills.io specification.
 
 #### Customer Journey Map
 
