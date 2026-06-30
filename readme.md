@@ -475,6 +475,7 @@ A product manager is a professional role that is responsible for the development
 - [Fibery](https://fibery.io/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [PM-Skills](https://github.com/product-on-purpose/pm-skills?from=awesome-product-manager&utm_source=awesome-product-manager) - A library of 24 plug-and-play product management agent skills for Claude, following the agentskills.io specification.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills?from=awesome-product-manager&utm_source=awesome-product-manager) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks. Covers discovery, strategy, delivery, SaaS metrics, career coaching, and AI product craft.
+- [PM Mapped](https://pmmapped.com/?from=awesome-product-manager&utm_source=awesome-product-manager) - A visual map of 156 PM frameworks with free interactive tools (RICE, North Star, Four Big Risks) and plain-English guides.
 
 #### Customer Journey Map
 
