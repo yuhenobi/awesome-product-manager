@@ -538,6 +538,7 @@ A product manager is a professional role that is responsible for the development
 - [VWO](https://vwo.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Optimizely](https://www.optimizely.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Google Optimize](https://marketingplatform.google.com/about/optimize/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Klinky](https://klinky.io/?from=awesome-product-manager&utm_source=awesome-product-manager)
 
 #### Newsletters
 
