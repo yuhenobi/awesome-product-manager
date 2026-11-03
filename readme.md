@@ -533,6 +533,7 @@ A product manager is a professional role that is responsible for the development
 - [iSpionage](https://www.ispionage.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Facebook Insights](https://www.facebook.com/ads/audience-insights/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [SEMrush](https://www.semrush.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Calven](https://calven.ai/?from=awesome-product-manager&utm_source=awesome-product-manager) - AI product marketing platform: competitive intelligence, win/loss, ICP, personas, positioning and messaging, kept current by agents.
 
 #### A/B testing
 
