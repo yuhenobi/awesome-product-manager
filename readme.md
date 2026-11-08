@@ -502,6 +502,7 @@ A product manager is a professional role that is responsible for the development
 - [Origami](https://origami.design/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [FramerJS](https://www.framer.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Figma](https://www.figma.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [APPLORE](https://applore.app/?from=awesome-product-manager&utm_source=awesome-product-manager) - App icon inspiration library with 18,000+ real App Store and Google Play icons (past versions archived), plus tools to export icon sizes and make App Store screenshots.
 
 ### Hypothesis testing
 
@@ -559,6 +560,7 @@ A product manager is a professional role that is responsible for the development
 - [Yandex.Surveys](https://surveys.yandex.ru/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Ribbon](https://www.ribbonapp.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [WishKit](https://www.wishkit.io) - In-app feature request board with user voting
+- [Pulse](https://pulsecorp.co/?from=awesome-product-manager&utm_source=awesome-product-manager) - AI-moderated market research platform that runs customer interviews at scale.
 
 ### Tasks and projects
 
