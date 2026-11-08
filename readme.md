@@ -314,6 +314,7 @@ A product manager is a professional role that is responsible for the development
 - [Bulletproof Problem Solving: The One Skill That Changes Everything](https://www.amazon.com/Bulletproof-Problem-Solving-Changes-Everything/dp/1119553024) - Charles Conn.
 - [The Pyramid Principle: Logic in Writing and Thinking](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516) - Brabara Minto.
 - [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000) - Atul Gawande.
+- [Product Metrics for Product Managers](https://www.amazon.com/dp/B0HGLK19XR/) - A practical guide to product metrics, KPIs, funnels, retention, and data-driven decision-making for Product Managers.
 
 ## Podcasts
 
