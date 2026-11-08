@@ -502,6 +502,7 @@ A product manager is a professional role that is responsible for the development
 - [Origami](https://origami.design/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [FramerJS](https://www.framer.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Figma](https://www.figma.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [APPLORE](https://applore.app/?from=awesome-product-manager&utm_source=awesome-product-manager) - App icon inspiration library with 18,000+ real App Store and Google Play icons (past versions archived), plus tools to export icon sizes and make App Store screenshots.
 
 ### Hypothesis testing
 
