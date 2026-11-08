@@ -510,6 +510,7 @@ A product manager is a professional role that is responsible for the development
 
 - [Tilda](https://tilda.cc/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Webflow](https://webflow.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [deed.page](https://deed.page) - Publish a static HTML landing page or clickable prototype with one upload and get a public link for testing a hypothesis
 
 ### Web
 
