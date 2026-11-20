@@ -566,6 +566,7 @@ A product manager is a professional role that is responsible for the development
 - [Ribbon](https://www.ribbonapp.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [WishKit](https://www.wishkit.io) - In-app feature request board with user voting
 - [Pulse](https://pulsecorp.co/?from=awesome-product-manager&utm_source=awesome-product-manager) - AI-moderated market research platform that runs customer interviews at scale.
+- [Frank AI Researcher](https://www.hifrank.ai) - AI-moderated voice interviews with your own customers: create studies, run them, and read the transcripts.
 - [QuestionPunk](https://www.questionpunk.com/) - Survey and AI-moderated voice and chat interview tool with response reports and cross-tabs.
 
 ### Tasks and projects
