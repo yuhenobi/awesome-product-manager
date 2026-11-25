@@ -577,6 +577,7 @@ A product manager is a professional role that is responsible for the development
 - [Asana](httpss://asana.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Trello](httpss://trello.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Yandex.Tracker](https://yandex.ru/tracker/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [Opitor Weekly Status Update Template](https://opitor.com/tools/weekly-status-update-template?from=awesome-product-manager&utm_source=awesome-product-manager) - Free browser template for a weekly update to a manager, client or the company: done, in progress with finish dates, blocked and by whom, next week and risks.
 
 ### Notepads
 
