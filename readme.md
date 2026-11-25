@@ -506,6 +506,7 @@ A product manager is a professional role that is responsible for the development
 - [Figma](https://www.figma.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [APPLORE](https://applore.app/?from=awesome-product-manager&utm_source=awesome-product-manager) - App icon inspiration library with 18,000+ real App Store and Google Play icons (past versions archived), plus tools to export icon sizes and make App Store screenshots.
 - [AppScreen](https://appscreen.pro/?from=awesome-product-manager&utm_source=awesome-product-manager) - Browser editor for App Store and Google Play screenshots: phone frames, captions and backgrounds on one canvas, exported at store sizes, for launch and listing mockups.
+- [Kite](https://kite.new/?from=awesome-product-manager&utm_source=awesome-product-manager) - Collaborative design and prototyping tool where AI agents (Claude, ChatGPT, Cursor, Codex) and the team edit the same file; free plan.
 
 ### Hypothesis testing
 
