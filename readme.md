@@ -524,6 +524,7 @@ A product manager is a professional role that is responsible for the development
 - [GoSquared](https://www.gosquared.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Usertesting.com](https://www.usertesting.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
 - [Amplitude](https://amplitude.com/?from=awesome-product-manager&utm_source=awesome-product-manager)
+- [UTM Link Builder](https://bestlatestapps.com/tools/utm-builder/) - Free browser tool that adds utm_source, utm_medium, utm_campaign, utm_term and utm_content to a link so campaign traffic shows up cleanly in analytics
 
 #### Leads
 
